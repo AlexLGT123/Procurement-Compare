@@ -1,0 +1,5 @@
+{
+  "name": "ProcurementCompare IA",
+  "description": "Intelligently compare procurement quotes from Excel or CSV files to analyze data quality and performance.",
+  "requestFramePermissions": []
+}
